@@ -37,6 +37,7 @@ function Home() {
     return (
         <div className="container">
             <div className="lista-filmes">
+                <h1>Filmes em Cartaz:</h1>
                 {filmes.map((filme) => {
                     return (
                         <article key={filme.id}>

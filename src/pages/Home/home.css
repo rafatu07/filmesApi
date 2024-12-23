@@ -46,3 +46,10 @@
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
 }
+
+.lista-filmes h1{
+    font-size: 32px;
+    text-align: center;    
+    margin: 14px 0;
+    color: #116feb
+}
